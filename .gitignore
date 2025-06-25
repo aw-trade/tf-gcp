@@ -1,0 +1,9 @@
+aw-trade-a0a723989eba.json
+.terraform.lock.hcl
+terraform.tfstate.backup
+test.txt
+.terraform/providers/registry.terraform.io/hashicorp/google/6.41.0/linux_amd64/LICENSE.txt
+.terraform/providers/registry.terraform.io/hashicorp/google/6.41.0/linux_amd64/terraform-provider-google_v6.41.0_x5
+.terraform/providers/registry.terraform.io/hashicorp/null/3.2.4/linux_amd64/terraform-provider-null_v3.2.4_x5
+terraform.tfstate
+.terraform/providers/registry.terraform.io/hashicorp/null/3.2.4/linux_amd64/LICENSE.txt
